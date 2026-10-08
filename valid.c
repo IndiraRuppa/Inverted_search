@@ -132,4 +132,4 @@ int validate_args(int argc, char *argv[], filename **head)
         return FAILURE;
     }
     return SUCCESS;
-}
+}/* Updated: 2026-10-08 */

@@ -189,4 +189,4 @@ void free_file_list(filename *head)
         head = next;
     }
 }
- 
+ /* Updated: 2026-10-08 */

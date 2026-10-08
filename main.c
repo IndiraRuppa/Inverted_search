@@ -77,4 +77,4 @@ int main(int argc, char *argv[])
     free_database(hash_table);
     free_file_list(head);
     return 0;
-}
+}/* Updated: 2026-10-08 */

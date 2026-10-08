@@ -68,4 +68,4 @@ void save_database(hash  *ht, filename *head);
 void update_database(hash *ht, filename **head);
 
 
-#endif
+#endif/* Updated: 2026-10-08 */
